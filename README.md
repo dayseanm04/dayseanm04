@@ -17,4 +17,4 @@ I'm a Network and Security student at City Tech (B.Tech, expected Fall 2027) loo
 **Tools & Automation:** PowerShell, Python, Nagios, Wireshark, Packet Tracer, GNS3<br/>
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/daysean-mensah-1ba363355/)
+[**LinkedIn**](https://www.linkedin.com/in/daysean-mensah-1ba363355/)
