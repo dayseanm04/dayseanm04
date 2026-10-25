@@ -12,9 +12,9 @@ I'm a Network and Security student at City Tech (B.Tech, expected Fall 2027) loo
 - **[Phishing Detection Analysis](https://github.com/dayseanm04/Phishing-Attack-Detection-and-Social-Engineering-Analysis)** – Breakdown of 10 real phishing emails and the social engineering tactics behind them
 
 ## Skills
-**Networking:** OSPF, EIGRP, VLANs, VLSM, STP, EtherChannel, HSRP, NAT/PAT, ACLs, Cisco IOS, Cisco WLC
-**Systems:** Windows Server 2019, Active Directory, Group Policy, DNS, DHCP, Hyper-V, Ubuntu
-**Tools & Automation:** PowerShell, Python, Nagios, Wireshark, Packet Tracer, GNS3
+**Networking:** OSPF, EIGRP, VLANs, VLSM, STP, EtherChannel, HSRP, NAT/PAT, ACLs, Cisco IOS, Cisco WLC <br/>
+**Systems:** Windows Server 2019, Active Directory, Group Policy, DNS, DHCP, Hyper-V, Ubuntu <br/>
+**Tools & Automation:** PowerShell, Python, Nagios, Wireshark, Packet Tracer, GNS3<br/>
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/daysean-mensah-1ba363355/)
