@@ -1,6 +1,6 @@
 # Hi, I'm Daysean 👋
 
-I'm a Network and Security student at City Tech (B.Tech, expected Fall 2027) looking for network engineer and systems admin internships. I volunteer as the assistant network administrator at a church in the Bronx, and I build projects here to practice what I'm learning.
+I'm a Network and Security student at City Tech (B.Tech, expected Fall 2027) and an IT intern at Brown Harris Stevens. I volunteer as the assistant network administrator at a church in the Bronx, and I build projects here to practice what I'm learning.
 
 **Certifications:** CCNA · CompTIA Network+ · Google IT Support Professional Certificate
 
