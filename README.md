@@ -5,6 +5,7 @@ I'm a Network and Security student at City Tech (B.Tech, expected Fall 2027) loo
 **Certifications:** CCNA · CompTIA Network+ · Google IT Support Professional Certificate
 
 ## Projects
+- **[Microsoft 365 Administration](https://github.com/dayseanm04/microsoft-365-administration)** – *(in progress)* Setting up and managing SharePoint Online, Teams, and OneDrive, documented step by step.
 - **[Nagios Network Monitoring](https://github.com/dayseanm04/Nagios-Network-Monitoring-Project)** – Nagios Core on Ubuntu monitoring a simulated small business network with NCPA agent checks
 - **[Windows AD & Server Administration](https://github.com/dayseanm04/Enterprise-Windows-AD-and-Server-Administration-Project)** – Windows Server 2019 domain with Active Directory, Group Policy, and PowerShell automation
 - **[Hospital Network Design](https://github.com/dayseanm04/Hospital-Network-Design-Project)** – Three-tier network for 500 users with OSPF, HSRP, EtherChannel, and ACLs
